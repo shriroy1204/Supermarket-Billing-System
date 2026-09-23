@@ -73,6 +73,13 @@ SupermarketBilling.exe
 4. Exit
 ```
 
+## Screenshot
+
+![Supermarket Billing System](screenshot.jpg)
+
+
 ## Author
 
-Developed as a C++ project demonstrating Object-Oriented Programming and file handling.
+**Shrikant Roy**  
+Information Technology Student  
+C++ | Object-Oriented Programming | File Handling
